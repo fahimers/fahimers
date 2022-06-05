@@ -15,7 +15,7 @@ I am a top-rated senior software engineer with 6 years of professional experienc
 I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
 I am an <b>ambitious man</b> with rich experience.<br>
 Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/elias-mohammadi-42a73215a/)
+Feel free to connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 </p>
 
 <h2>🥇 Specialised in:</h2>
