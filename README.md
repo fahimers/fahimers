@@ -18,7 +18,7 @@ Creative, sophisticated, dedicated engineer with imaginative and efficient solut
 Feel free to connect with me on Linkedin: https://www.linkedin.com/in/elias-m-42a73215a/
 </p>
 
-<h2>🥇 Specialised in:</h2>
+<h2>🥇 Specialized in:</h2>
 <br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
 <br>🔸 BackEnd - Node, Express, Laravel, RoR
 <br>🔸 AWS and MLOPS
