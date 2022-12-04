@@ -4,7 +4,7 @@
 
 <h4 align='center'>
   Blockchain | FullStack Engineer
-  ![](https://komarev.com/ghpvc/?fahimers=your-github-fahimers&color=green)
+
 </h4>
 
 
