@@ -14,16 +14,17 @@
 ## 🧑 About me:
 
 <p>
-I am a top-rated senior software engineer with 7 years of professional experience working with JavaScript frameworks like React, Vue, Angular, Node, Express <b>Blockchain</b> and have developed many projects according to clients' needs.<br>
-I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
-I am an <b>ambitious man</b> with rich experience.<br>
-Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
-Feel free to connect with me on Linkedin: https://www.linkedin.com/in/elias-m-42a73215a/
- 
-  Hire me here->  https://www.upwork.com/freelancers/~0164cf18f37e962d0a
-  
-  Email: fahimermo@gmail.com
-  Phone: +46736631694
+As a highly skilled senior software engineer, I bring 7 years of professional expertise in developing cutting-edge projects tailored to clients' specific requirements. Specializing in JavaScript frameworks such as React, Vue, Angular, Node, Express, and Blockchain, I have consistently delivered exceptional results throughout my career.
+
+What sets me apart is my unwavering self-motivation and strong work ethic. I am a productive self-starter, constantly seeking new challenges to keep myself updated and ahead of the curve. My passion for learning and staying abreast of the latest industry trends enables me to bring innovative solutions to the table.
+
+With a rich and diverse experience in the field, I thrive on ambition and the pursuit of excellence. As a creative and sophisticated engineer, I excel at designing imaginative and efficient solutions for large-scale websites. I have a track record of successfully tackling complex projects and delivering superior outcomes.
+
+If you're looking for a software engineer who is driven, dedicated, and consistently exceeds expectations, I am the ideal candidate. I invite you to connect with me on LinkedIn at https://www.linkedin.com/in/elias-m-42a73215a/ to explore how my skills and experience align with your business needs.
+
+You can also hire me directly through Upwork at https://www.upwork.com/freelancers/~0164cf18f37e962d0a. My email address is fahimermo@gmail.com, and you can reach me at +46730240539.
+
+Let's collaborate and bring your business to new heights with my expertise and passion for excellence.
 </p>
 
 <h2>🥇 Specialized in:</h2>
