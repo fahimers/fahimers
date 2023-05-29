@@ -14,7 +14,7 @@
 ## 🧑 About me:
 
 <p>
-I am a top-rated senior software engineer with 6 years of professional experience working with JavaScript frameworks like React, Vue, Angular, Node, Express <b>Blockchain</b> and have developed many projects according to clients' needs.<br>
+I am a top-rated senior software engineer with 7 years of professional experience working with JavaScript frameworks like React, Vue, Angular, Node, Express <b>Blockchain</b> and have developed many projects according to clients' needs.<br>
 I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
 I am an <b>ambitious man</b> with rich experience.<br>
 Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
