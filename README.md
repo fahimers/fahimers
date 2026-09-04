@@ -14,7 +14,7 @@
 ## 🧑 About me:
 
 <p>
-Are you searching for an exceptional senior software engineer with seven years of experience in crafting cutting-edge projects tailored to clients' unique needs? Look no further! I specialize in JavaScript frameworks such as React, Vue, Angular, Node, Express, and Blockchain, consistently delivering outstanding results.
+Are you searching for an exceptional senior software engineer with nine years of experience in crafting cutting-edge projects tailored to clients' unique needs? Look no further! I specialize in JavaScript frameworks such as React, Vue, Angular, Node, Express, and Blockchain, consistently delivering outstanding results.
 
 What truly sets me apart is my unwavering self-motivation and robust work ethic. I thrive as a proactive self-starter, continually seeking new challenges to stay ahead of the curve. My passion for learning and staying current with industry trends empowers me to bring innovative solutions to your projects.
 
