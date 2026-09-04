@@ -22,7 +22,7 @@ My extensive and diverse experience in the field fuels my ambition for excellenc
 
 If you're in search of a driven, dedicated software engineer who consistently exceeds expectations, I'm your ideal candidate. Let's connect on LinkedIn at Elias M LinkedIn Profile to explore how my skills and experience align perfectly with your business needs. Let's work together to create something remarkable!
 
-You can also hire me directly through Upwork at https://www.upwork.com/freelancers/~0164cf18f37e962d0a. My email address is fahimermo@gmail.com, and you can reach me at +46761844181.
+You can also hire me directly through Upwork at https://www.upwork.com/freelancers/~0164cf18f37e962d0a. My email address is fahimermo@gmail.com, and you can reach me at +46724477359.
 
 </p>
 
