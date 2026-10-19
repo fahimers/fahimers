@@ -1,54 +1,70 @@
-<h2 align="center">
-  Hey there, I am E.Dev!
-</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:3a6073&height=200&section=header&text=Hey%20there,%20I'm%20E.Dev!&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  
+  <h4>🚀 Blockchain & FullStack Engineer</h4>
+  <p>Med 9 års erfarenhet av att bygga skalbara system och innovativa lösningar.</p>
 
-<h4 align='center'>
-  Blockchain | FullStack Engineer
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=fahimers" alt="fahimers"/>
-</p>
-</h4>
+  <a href="https://www.linkedin.com/in/elias-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.upwork.com/freelancers/~0164cf18f37e962d0a"><img src="https://img.shields.io/badge/UpWork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+  <img src="https://komarev.com/ghpvc/?username=fahimers&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</div>
 
+---
 
+### 🧑‍💻 Om mig
 
-## 🧑 About me:
+Jag är en självmotiverad och driven mjukvaruingenjör som älskar att lösa komplexa problem. Min passion ligger i att ligga steget före och ständigt lära mig nya teknologier för att leverera förstklassiga resultat. Med ett brett spektrum av erfarenhet designar jag innovativa och effektiva lösningar för storskaliga webbplatser.
 
-<p>
-Are you searching for an exceptional senior software engineer with nine years of experience in crafting cutting-edge projects tailored to clients' unique needs? Look no further! I specialize in JavaScript frameworks such as React, Vue, Angular, Node, Express, and Blockchain, consistently delivering outstanding results.
+*   🔭 **Aktuellt projekt:** Bygger en fullskalig plattform för bilpooler med Spring Boot, React och PostgreSQL.
+*   🌱 **Fokusområden:** Systemarkitektur, CI/CD, Databassäkerhet och Blockchain.
+*   💬 **Fråga mig om:** React, Java/Spring Boot, Node.js, AWS eller Laravel.
 
-What truly sets me apart is my unwavering self-motivation and robust work ethic. I thrive as a proactive self-starter, continually seeking new challenges to stay ahead of the curve. My passion for learning and staying current with industry trends empowers me to bring innovative solutions to your projects.
+---
 
-My extensive and diverse experience in the field fuels my ambition for excellence. As a creative and sophisticated engineer, I excel in designing imaginative, efficient solutions for large-scale websites. I have a proven track record of successfully handling complex projects and delivering superior outcomes.
+### 🛠️ Tech Stack
 
-If you're in search of a driven, dedicated software engineer who consistently exceeds expectations, I'm your ideal candidate. Let's connect on LinkedIn at Elias M LinkedIn Profile to explore how my skills and experience align perfectly with your business needs. Let's work together to create something remarkable!
+<div align="center">
+  
+**Frontend**<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-You can also hire me directly through Upwork at https://www.upwork.com/freelancers/~0164cf18f37e962d0a. My email address is fahimermo@gmail.com, and you can reach me at +46724477359.
+**Backend & Databaser**<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</p>
+**Cloud & DevOps**<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<h2>🥇 Specialized in:</h2>
-<br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
-<br>🔸 BackEnd - Node, Express, Laravel, RoR
-<br>🔸 AWS and MLOPS
-<p>
+</div>
 
-<h2>ℹ️ &nbsp;Github Info</h2>
+---
 
-  <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimers&theme=github_dark" alt="fahimers" align = "center"/></p>
+### ℹ️ GitHub Info
 
-  <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahimers&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="fahimers" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimers&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="fahimers" align = "center"/></p>
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahimers&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="fahimers Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimers&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="fahimers Top Languages" />
 
- <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimers&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="fahimers" /></p>
+  <br><br>
 
-<summary><b>📊 Github Contribution Graph</b></summary>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimers&theme=tokyonight&hide_border=true" alt="fahimers Streak" />
 
-<!-- </details>
-<details>    -->
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/fahimers"><img src="https://github-profile-trophy.vercel.app/?username=fahimers&margin-w=5&theme=radical" alt="fahimers" /></a> </p>
+  <br><br>
 
-<br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimers&theme=tokyonight" alt="fahimers Summary" />
+
+  <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=fahimers&theme=tokyonight&margin-w=15&margin-h=15&column=7" alt="fahimers Trophies" />
+
+</div>
